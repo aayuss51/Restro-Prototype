@@ -63,7 +63,7 @@ RestaurantHub is a comprehensive restaurant management system designed to help r
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/aryanad/nextjs-restro.git
+   git clone https://github.com/aayuss51/nextjs-restro.git
    cd restaurant-hub
    \`\`\`
 
